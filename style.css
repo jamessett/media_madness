@@ -1,0 +1,60 @@
+#header1{
+  background-color: gray;
+  height: 800px;
+  width: 100px
+  border:5em saddlebrown;
+  text-align: center;
+  vertical-align: middle;
+  font-family: 'Sriracha', cursive;
+  color: gold;
+  font-size: 20px;
+}
+
+body{
+  background-image: url("jojo3.png");
+}
+
+*{
+	box-sizing: border-box;
+}
+
+#header1{
+  color: gold;
+  text-shadow: 1px 1px white;
+  text-align: center;
+}
+
+header{
+	background-color: royalblue;
+}
+
+nav{
+
+}
+
+article{
+	background-color:white;
+}
+
+aside{
+	background-color: black;
+}
+
+footer{
+	background-image: url("jojo1.png");
+  height: 400px;
+}
+
+#panes{
+  background-image: url("ora.png");
+  height:300px;
+}
+
+#empty{
+  background-color: ;
+  height: 20px;
+}
+
+#rightside{
+
+}
